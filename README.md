@@ -1,2 +1,2 @@
-# collection
-JavaScript collection of objects
+# Collection
+JavaScript collection of objects.
